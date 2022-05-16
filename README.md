@@ -1,5 +1,5 @@
  Hi there😁
- - 🎓💻 I'm currently a full-stack web developer
+ - 🎓💻 I'm currently a full-stack web developer & A Senior Tech Support Associate W/ Infosys & a Teacher Assistant @ Pivot Tech
 - 🔭 I’m an alumnus of The University Of Pennsylvania's Coding LPS Boot Camp. 
 - 🌱 I’m currently learning everything that i didn't know yesterday!
 - 👯 I’m looking to collaborate on open source projects, freelance, you name it!
